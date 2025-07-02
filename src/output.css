@@ -1,1 +1,7 @@
 /*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+.grid {
+  display: grid;
+}
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
