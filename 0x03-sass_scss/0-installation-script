@@ -1,0 +1,4 @@
+- I created a new directory called 0x03-sass_scss inside the alx-intermediate-frontend repository
+
+- I already have node installed globally on my system, so I installed SASS by using the following command:
+npm install sass -v 3.7.4
